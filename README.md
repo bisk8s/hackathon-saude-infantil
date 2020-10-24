@@ -1,5 +1,7 @@
 # Hackathon - Saúde Infantil
 
+<img src="https://repository-images.githubusercontent.com/306930688/194c2400-1605-11eb-892d-78df0ef186dd" alt="shawee"/>
+
 ## Problemática
 
 A informação em saúde é fundamental para orientar a formulação de políticas públicas, subsidiar o planejamento das ações, sustentar a tomada de decisão dos gestores e permitir a revisão de práticas assistenciais, além de subsidiar a sociedade civil para monitorar o cenário e propor mudanças.
