@@ -7,7 +7,7 @@
   "private": true,
   "scripts": {
     "start": "ts-node src/index.ts",
-    "dev-start": "nodemon ./src/server.ts",
+    "start:dev": "nodemon ./src/server.ts",
     "migration:run": "ts-node ./node_modules/typeorm/cli.js migration:run",
     "migration:revert": "ts-node ./node_modules/typeorm/cli.js migration:revert"
   },
