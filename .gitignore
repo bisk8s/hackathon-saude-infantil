@@ -1,2 +1,3 @@
 .DS_Store
 mobile/bin/**
+backend/.env
